@@ -1,16 +1,14 @@
-### Hi there 👋
+# **Hey, I'm Martín! :D**
 
-<!--
-**iSnakeBuzz/iSnakeBuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm a 23-year-old programmer with a passion for building innovative projects.
 
-Here are some ideas to get you started:
+### **My skills include**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,go,js,ts,html,css,react,vue,nextjs,vite,electron,express,graphql,apollo,nestjs,workers,mongodb,redis,mysql,sqlite,postgresql,firebase,cloudflare,aws,vercel,docker,kubernetes,githubactions&perline=7)](https://skillicons.dev)
+
+### **Apart from coding, I also love**
+
+- 🎮 Playing video games
+- 🎧 Listening to music
+- 🎥 Watching movies and series
+- 🎨 Designing stuff
